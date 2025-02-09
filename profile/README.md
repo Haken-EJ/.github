@@ -6,11 +6,8 @@ A Haken é uma organização formada por estudantes apaixonados por tecnologia e
 
 ## Nossa Estrutura
 
-- **Presidência**: Sophia Lima
-- **Diretoria de Projetos**: Manoel Felipe Carvalho
-- **Gestão de Pessoas (GP)**: Eric Seles
-- **Diretoria Comercial**: Yuri Cavallini
-- **Diretoria de Marketing**: Rodrigo Dias
+- **Presidência**: Manoel Carvalho
+- **Diretoria de Marketing**: Yuri Cavallini
 
 ## Boas-vindas aos "Juninhos" 👋
 
